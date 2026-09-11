@@ -13,4 +13,7 @@ class JenkinsProjectApplicationTests {
 	int Sum(int a, int b){
 			return a+b;
 		}
+	int subjact(int a, int b){
+			return a-b;
+		}
 }
