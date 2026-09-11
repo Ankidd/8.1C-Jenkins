@@ -22,4 +22,7 @@ class JenkinsProjectApplicationTests {
 	int division(int a, int b){
 			return a/b;
 		}
+	void print(){
+		system.out.prinln("hello");
+		}
 }
