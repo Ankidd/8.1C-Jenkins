@@ -9,6 +9,9 @@ class JenkinsProjectApplicationTests {
 	@Test
 	void contextLoads() {
 		System.out.println("hello world");
+		System.out.println("test");
+		System.out.println("test 2");
+
 	}
 
 }
