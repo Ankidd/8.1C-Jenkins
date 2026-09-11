@@ -25,4 +25,8 @@ class JenkinsProjectApplicationTests {
 	void print(){
 		system.out.prinln("hello");
 		}
+
+	void test(){
+		system.out.println("test");
+		}
 }
