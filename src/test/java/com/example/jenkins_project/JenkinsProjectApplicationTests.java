@@ -8,10 +8,9 @@ class JenkinsProjectApplicationTests {
 
 	@Test
 	void contextLoads() {
-		System.out.println("hello world");
-		System.out.println("test");
-		System.out.println("test 2");
-
 	}
 
+	int Sum(int a, int b){
+			return a+b;
+		}
 }
